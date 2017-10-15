@@ -1,0 +1,59 @@
+{
+    "id": "root",
+    "content": "氢",
+    "children": "e0353601-47de-4250-8e5f-e0a4d9755928",
+    "detail": {
+        "nodes": [
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "blockquote",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "基于 Git 的笔记、任务、待办应用"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
